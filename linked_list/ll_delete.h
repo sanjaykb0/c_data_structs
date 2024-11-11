@@ -1,3 +1,4 @@
+#include "ll_core.h"
 
 #ifndef LL_DELETE_H
 #define LL_DELETE_H

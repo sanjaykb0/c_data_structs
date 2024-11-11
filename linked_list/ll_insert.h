@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include "ll_core.h"
-#include "ll_definitions.h"
 
 #ifndef LL_INSERT_H
 #define LL_INSERT_H
