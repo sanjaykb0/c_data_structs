@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include "ll_core.h"
 
 #ifndef LL_INSERT_H
